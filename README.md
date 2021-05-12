@@ -8,4 +8,8 @@ Load and Visualize the Facial Keypoint Data
 ## Notebook 2
 Define and Train a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
-## Notebook 1.
+## Notebook 3.
+Facial Keypoint Detection Using Haar Cascades and the trained CNN model
+
+## Notebook 4.
+Application of the Keypoints & Filters
